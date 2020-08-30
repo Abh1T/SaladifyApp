@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="NoActionBar" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <style name="mytoast">
+        <item name="stTextColor">#000</item>
+        <item name="stColorBackground">#f20202</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stIconStart">@drawable/ic_do_not_disturb_black</item>
+        <item name="stLength">SHORT</item>
+    </style>
+    <style name="myaddtoast">
+        <item name="stTextColor">#000</item>
+        <item name="stColorBackground">#5a02f2</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stIconStart">@drawable/ic_done_black</item>
+        <item name="stLength">SHORT</item>
+    </style>
+    <style name="entertoast">
+        <item name="stTextColor">#000</item>
+        <item name="stColorBackground">#4287f5</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stIconStart">@drawable/ic_insert_comment_black_24dp</item>
+        <item name="stLength">SHORT</item>
+    </style>
+    <style name="leavetoast">
+        <item name="stTextColor">#000</item>
+        <item name="stColorBackground">#13d113</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stIconStart">@drawable/ic_fiber_dvr_black_24dp</item>
+        <item name="stLength">SHORT</item>
+    </style>
+    <color name="black">#000000</color>
+    <color name="titlebackgroundcolor">#00abd7</color>
+    <color name="titlecolor">#666666</color>
+
+</resources>

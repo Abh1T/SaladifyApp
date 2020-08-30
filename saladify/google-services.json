@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163090407339",
+    "firebase_url": "https://saladify-71141.firebaseio.com",
+    "project_id": "saladify-71141",
+    "storage_bucket": "saladify-71141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163090407339:android:26c85a9dae7628efc93cee",
+        "android_client_info": {
+          "package_name": "com.example.saladify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163090407339-67kamcc105lkite23bed6b1n3p7hb3r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRmcyqDGEwt2YBKwl31alM2j011JLH1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163090407339-67kamcc105lkite23bed6b1n3p7hb3r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
